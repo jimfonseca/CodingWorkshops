@@ -1,0 +1,12 @@
+[
+  "team_organizer.py::FLAKE8",
+  "test_team_organizer.py::FLAKE8",
+  "test_team_organizer.py::test_add_person_with_higher_than_median",
+  "test_team_organizer.py::test_add_a_person_with_lower_than_median",
+  "test_team_organizer.py::test_count_number_of_teams[test_input0-1]",
+  "test_team_organizer.py::test_count_number_of_teams[test_input1-1]",
+  "test_team_organizer.py::test_add_a_person_who_has_never_written_code_before",
+  "test_team_organizer.py::test_add_two_person_with_same_name_but_different_slack_handles",
+  "test_team_organizer.py::test_add_a_person_who_supplied_negative_lines_of_code",
+  "test_team_organizer.py::test_add_same_person_twice"
+]
