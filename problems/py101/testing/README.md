@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [1. Introduction to PyTest and Continuous Integration](#1-introduction-to-pytest-and-continuous-integration)
+- [1. Intro to PyTest and Continuous Integration](#1-introduction-to-pytest-and-continuous-integration)
     - [1.1. Setup Instructions](#11-setup-instructions)
         - [1.1.1. Git and Github](#111-git-and-github)
         - [1.1.2. Travis setup](#112-travis-setup)
