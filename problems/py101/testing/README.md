@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jimfonseca/CodingWorkshops.svg?branch=master)](https://travis-ci.org/jimfonseca/CodingWorkshops)
+
 # 1. Introduction to PyTest and Continuous Integration
 
 <!-- TOC -->
